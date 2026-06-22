@@ -1,0 +1,7 @@
+{
+  "name": "TS_Build",
+  "version_number": "1.0.0",
+  "website_url": "https://stoatgames.icu/",
+  "description": "This is the repository for TS-Build, a building system for Thunderstore Packages with Multi-Framework and Multi-Runtime support. See the README for more details. This package is NOT A MOD its a MODDERS TOOL!",
+  "dependencies": []
+}
